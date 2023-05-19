@@ -1,0 +1,440 @@
+.wrap {
+    width: 1500px;
+    padding: 0;
+    margin: 0 auto;
+}
+.big-box{
+    width: 1200px;
+    padding-left: 125px;
+}
+.a1{
+    width: 1900px;
+    height: 35px;
+    position: relative;
+    text-align: center;
+    margin-left: -335px;
+    background-color: #dddada;
+}
+.b0{
+    width: 335px;
+    height: 35px;
+    float: left;
+    position: absolute;
+    top: 10px;
+    left: 0;
+}
+.b1{
+    height: 20px;
+    width: 180px;
+    float: left;
+    text-align: center;
+    position: absolute;
+    top: 10px;
+    left: 335px;
+}
+.b2{
+     height: 20px;
+     width: 160px;
+     float: left;
+    text-align: center;
+    position: absolute;
+    top: 10px;
+    left: 515px;
+ }
+.b3{
+    height: 20px;
+    width: 120px;
+    float: left;
+    text-align: center;
+    position: absolute;
+    top: 15px;
+    left:  655px;
+
+}
+.b4{
+    height: 20px;
+    width: 200px;
+    float: left;
+    text-align: center;
+    position: absolute;
+    top: -10px;
+    left: 725px;
+}
+.b6 {
+    width: 200px;
+    height: 20px;
+   position: absolute;
+    top: 2px;
+    right: 380px;
+    text-align: center;
+    border-radius: 12px;
+}
+.a2{
+    width: 100%;
+    height: 60px;
+
+}
+.c1{
+    background-image: url("./rasmlar/ten.png");
+    background-position: center center;
+    width: 15% ;
+    height: 60px;
+    float: left;
+}
+.c2{
+    width: 85%;
+    height:60px;
+    float: left;
+}
+.b7{
+    width: 100%;
+    height: 30px;
+
+
+    text-decoration: none;
+    list-style: none;
+}
+.b8{
+    width: 100%;
+    height: 30px;
+
+
+    text-decoration: none;
+    list-style: none;
+}
+a{
+    margin-left: 25px;
+    text-decoration: none;
+    color: #6b6161;
+}
+.b7 a{
+    margin-left: 55px;
+}
+a:hover{
+    color: #acd46e;
+}
+.a3{
+width: 1900px;
+    height: 557px;
+    background-image: url("./rasmlar/Screenshot 2023-02-10 081646.png");
+    margin-left: -335px;
+    position: relative;
+    z-index: 1;
+}
+.a3 input[type=submit]{
+    width: 115px;
+    height: 60px;
+    position: absolute;
+    top: 298px;
+    left: 380px;
+    background: #057205;
+    color: white;
+    font-size: 18px;
+}
+.a3 input:hover{
+    background: green;
+    box-shadow: 3px 3px 15px;
+}
+.a4{
+    width: 50%;
+    height: 250px;
+    background: white;
+    position: relative;
+}
+.b11{
+    width: 598px;
+    height: 100%;
+    float: left;
+    position: relative;
+}
+.b12{
+    width: 598px;
+    height: 100%;
+    float: left;
+    position: absolute;
+    left: 600px;
+    top: 0;
+}
+.y1{
+
+    width: 300px;
+    height: 100px;
+    text-align: center;
+
+}
+.y2{
+    width: 300px;
+    height: 100px;
+    position: absolute;
+    top: 0;
+    left: 300px;
+    text-align: center;
+}
+.y2 a{
+    text-align: center;
+    margin-left: 15px;
+    font-size: 23px;
+}
+.y3{
+    width: 200px;
+    height: 130px;
+    background: url("./rasmlar/usd.png");
+    position: absolute;
+    left: 1px;
+    top: 120px;
+}
+.y4{
+    width: 200px;
+    height: 110px;
+    background: url("./rasmlar/eur.png");
+    position: absolute;
+    left: 201px;
+    top: 125px;
+}
+.y5{
+    width: 200px;
+    height: 110px;
+    background: url("./rasmlar/kzt.png");
+    position: absolute;
+    left: 402px;
+    top: 123px;
+}
+.u1{
+    width: 400px;
+    height: 150px;
+    box-shadow: #cccccc 5px 5px 20px;
+    border-radius: 8px;
+    margin-left: 700px;
+    margin-top: -200px;
+
+}
+.a6{
+    width: 1200px;
+    height: 400px;
+}
+.g1{
+    width: 273px;
+    height: 380px;
+    float: left;
+    margin-left: 15px;
+    background: #e9fae9;
+    border-radius: 8px;
+    position: relative;
+}
+input[type=submit] {
+    width: 200px;
+    height: 30px;
+    position: absolute;
+    left: 34px;
+    bottom: 30px;
+    font-size: 18px;
+    border-radius: 8px;
+    border: 0.3px solid darkseagreen ;
+    background: #7de29e;
+}
+.l1{
+    width: 273px;
+    height: 165px;
+    background-image: url("./rasmlar/111.png");
+    border-radius: 8px;
+}
+.g1 a{
+    color: #0ee355;
+}
+.g1:hover{
+    background: white;
+    transition: 1s;
+}
+.g1:hover{
+    box-shadow: 2px 2px 15px;
+}
+.g2{
+    width: 273px;
+    height: 380px;
+    float: left;
+    margin-left: 15px;
+    background: #e9fae9;
+    border-radius: 8px;
+    position: relative;
+}
+input[type=submit]{
+    width: 200px;
+    height: 30px;
+    position: absolute;
+    left: 34px;
+    bottom: 30px;
+    font-size: 18px;
+    border-radius: 8px;
+    border: 0.3px solid darkseagreen ;
+    background: #e9fae9;
+}
+.l3{
+    width: 273px;
+    height: 165px;
+    background-image: url("./rasmlar/112.png");
+    border-radius: 8px;
+}
+.g2 a{
+    color: #0ee355;
+}
+.g2:hover{
+    background: white;
+    transition: 1s;
+}
+.g2:hover{
+    box-shadow: 2px 2px 15px;
+}
+.g3{
+    width: 273px;
+    height: 380px;
+    float: left;
+    margin-left: 15px;
+    background: #e9fae9;
+    border-radius: 8px;
+    position: relative;
+}
+input[type=submit]{
+    width: 200px;
+    height: 30px;
+    position: absolute;
+    left: 34px;
+    bottom: 30px;
+    font-size: 18px;
+    border-radius: 8px;
+    border: 0.3px solid darkseagreen ;
+    background: #e9fae9;
+}
+.l5{
+    width: 273px;
+    height: 165px;
+    background-image: url("./rasmlar/113.png");
+    border-radius: 8px;
+}
+.g3 a{
+    color: #0ee355;
+}
+.g3:hover{
+    background: white;
+    transition: 1s;
+}
+.g3:hover{
+    box-shadow: 2px 2px 15px;
+}
+.g4{
+    width: 273px;
+    height: 380px;
+    float: left;
+    margin-left: 15px;
+    background: #e9fae9;
+    border-radius: 8px;
+    position: relative;
+}
+input[type=submit]{
+    width: 200px;
+    height: 30px;
+    position: absolute;
+    left: 34px;
+    bottom: 30px;
+    font-size: 18px;
+    border-radius: 8px;
+    border: 0.3px solid darkseagreen ;
+    background: #e9fae9;
+}
+.l7{
+    width: 273px;
+    height: 165px;
+    background-image: url("./rasmlar/114.png");
+    border-radius: 8px;
+}
+.g4 a{
+    color: #0ee355;
+}
+.g4:hover{
+    background: white;
+    transition: 1s;
+}
+.g4:hover{
+    box-shadow: 2px 2px 15px;
+}
+.a6 a{
+    margin-left: 10px;
+    float: left;
+    font-size: 23px;
+}
+.a6 input:hover{
+    background: #1aa96b;
+    color: white;
+    transition: 1s;
+}
+.a7{
+     width: 1900px;
+     height: 269px;
+     background-image: url("./rasmlar/888.png");
+     margin-left: -335px;
+    position: relative;
+ }
+.a7 input{
+    width: 115px;
+    height: 60px;
+    position: absolute;
+    top: 176px;
+    left: 380px;
+    background: orange ;
+    border: 1px solid transparent;
+}
+.a7 input:hover{
+    background: #e59604;
+    box-shadow: 0px 0px 5px;
+}
+.a8{
+    width: 100%;
+    height: 150px;
+    position: relative;
+}
+.a8 h1{
+    position: absolute;
+    left: 35%;
+    bottom: 0;
+}
+.a9{
+    width: 100%;
+    height: 50px;
+    position: relative;
+}
+.a9 input[type=submit]{
+    position: absolute;
+    top: 0;
+    left: 45%;
+    background: orange;
+    height: 40px;
+    width: 200px;
+}
+.a9 input:hover{
+    background: #d08800;
+}
+.a10{
+    background-image: url("./rasmlar/t34.png");
+    width: 1900px;
+    height: 700px;
+    margin-left: -335px;
+    position: relative;
+}
+.a10 input{
+    width: 355px;
+    height: 35px;
+    margin-left: 800px;
+    margin-top: 120px;
+    border-radius: 8px;
+    font-size: 18px;
+}
+.a10 input[type=submit]{
+    position: absolute;
+    top: 3px;
+    left: 366px;
+    width: 82px;
+    color: white;
+    background: #529152;
+}
+.a10 input:hover[type=submit]{
+    box-shadow: 0 0 5px rgba(0,0,0,04);
+}
